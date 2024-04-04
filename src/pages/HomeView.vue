@@ -36,7 +36,7 @@
   
               <v-col cols="12" sm="6">
                 <div class="egg">
-                  <v-img src="../assets/person-icon-removed.PNG" max-height="280" width="auto"></v-img>
+                  <v-img src="../assets/person-icon-removed.png" max-height="280" width="auto"></v-img>
                 </div>
               </v-col>
   
